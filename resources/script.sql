@@ -1,0 +1,1 @@
+contatosSELECT * FROM agenda.contatos;
